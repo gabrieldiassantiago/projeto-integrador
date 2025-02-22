@@ -1,8 +1,8 @@
-# Restaurant Manager 🍔
+# SASS de Sistema de Pedidos 🍔
 
 ![Banner](https://via.placeholder.com/1200x300.png?text=Restaurant+Manager)  
 
-Bem-vindo ao **Restaurant Manager**, um sistema completo para gerenciamento de restaurantes! Esta aplicação permite que donos de restaurantes cadastrem seus estabelecimentos, configurem taxas de entrega por bairro, gerenciem produtos e acompanhem pedidos, enquanto clientes podem visualizar menus públicos e fazer pedidos online. Construído com tecnologias modernas, é uma solução escalável e fácil de usar.
+Olá, este é uma proposta de um sistema completo para gerenciamento de restaurantes! Esta aplicação permite que donos de restaurantes cadastrem seus estabelecimentos, configurem taxas de entrega por bairro, gerenciem produtos e acompanhem pedidos, enquanto clientes podem visualizar menus públicos e fazer pedidos online. Construído com tecnologias modernas, é uma solução escalável e fácil de usar.
 
 ---
 
